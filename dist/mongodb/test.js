@@ -1,0 +1,1 @@
+//db.test.update({}, {$rename : {"abc" : "def"}}, false, true)
