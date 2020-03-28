@@ -1,5 +1,5 @@
 # management-system
-信息登记系统
+### 信息登记系统
 # To start
 ```
 # install dependencies
@@ -14,6 +14,9 @@ npm run start
 # entry the app and see
 http://127.0.0.1:3000/#/pages/login.html
 ```
+### 技术栈
+* Font-End JS+HTML+CSS+Vue+Vuex+Vue-Router
+* Back-End Koa+MongoDB+NodeJS
 ### 实现功能
 #### 注册功能
 * 注册须知功能
