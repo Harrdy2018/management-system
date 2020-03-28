@@ -25,7 +25,7 @@ http://127.0.0.1:3000/#/pages/login.html
 #### mongodb 数据库功能
 * 目前只支持 数据库插入和查询功能 (忙着赶毕业大论文没时间做)
 ### 整体页面如下
-* 入口 http://127.0.0.1:3000/#/pages/login.html
+* 入口 ```http://127.0.0.1:3000/#/pages/login.html```
 ![image](./introduce/pages_login.png)
 * 点击注册进入注册页面的第一阶段
 ![image](./introduce/pages_register_notice.png)
