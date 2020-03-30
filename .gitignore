@@ -54,3 +54,4 @@ dkms.conf
 # my config
 node_modules/
 package-lock.json
+mytest/
